@@ -3,7 +3,7 @@
  * Plugin Name: Multisite URL Fixer
  * Plugin URI: https://github.com/roots/multisite-url-fixer
  * Description: Fixes WordPress issues with home and site URL on multisite when using Bedrock
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: Roots
  * Author URI: https://roots.io/
  * License: MIT License
