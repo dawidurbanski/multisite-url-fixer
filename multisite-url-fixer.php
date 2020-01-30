@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin Name: Multisite URL Fixer
  * Plugin URI: https://github.com/roots/multisite-url-fixer
@@ -10,7 +9,7 @@
  * License: MIT License
  */
 
-class_exists('Roots\Bedrock\URLFixer') || require_once __DIR__.'/vendor/autoload.php';
+require_once __DIR__.'/src/URLFixer.php';
 
 use Roots\Bedrock\URLFixer;
 
