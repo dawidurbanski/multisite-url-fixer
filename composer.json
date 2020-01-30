@@ -1,5 +1,5 @@
 {
-  "name": "roots/multisite-url-fixer",
+  "name": "dawidurbanski/multisite-url-fixer",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description":
